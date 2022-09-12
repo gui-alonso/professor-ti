@@ -9,6 +9,10 @@ echo "<h2><a style='text-decoration: none;' href='http://localhost/php_basico_na
 
 echo "<hr>";
 
+echo "<h2><a style='text-decoration: none;' href='http://localhost/php_basico_nazarena/php_intermediario/funcoes.php'>FUNÇÕES</a></h2>";
+
+echo "<hr>";
+
 // sleep -> durma o código por x segundos.
 // die -> "matar" o código
 
