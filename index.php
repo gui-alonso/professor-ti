@@ -4,12 +4,12 @@ echo 'olá, mundo';
 
 echo "</br>";
 
-$nome = "Guilherme"; //string
+$nome = "Felipe"; //string
 $idade = 17; //inteiro
 $nota = 7.8; //float
 $bool = true; // booleano
 
-echo "O único aluno que veio hoje é ".$nome." e ele tirou". $nota;
+echo "O único aluno que veio hoje é ".$nome." e ele tirou ". $nota;
 
 echo "<hr>";
 
@@ -30,6 +30,10 @@ echo "<h2><a style='text-decoration: none;' href='http://localhost/php_basico_na
 echo "<hr>";
 
 echo "<h2><a style='text-decoration: none;' href='http://localhost/php_basico_nazarena/loopings.php'>Loopings</a></h2>";
+
+echo "<hr>";
+
+echo "<p><a style='text-decoration: none; color: blue;' href='http://localhost/php_basico_nazarena/php_intermediario'>PHP Intermediário</a></p>";
 
 echo "<hr>";
 ?>
