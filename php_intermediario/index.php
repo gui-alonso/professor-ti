@@ -12,6 +12,7 @@ echo "<hr>";
 // sleep -> durma o código por x segundos.
 // die -> "matar" o código
 
+/*
 $nome = "guilherme";
 
 if($nome == 'joao'){
@@ -19,6 +20,6 @@ if($nome == 'joao'){
 } else {
     die("o script parou de ser executado!");
 }
-
+*/
 
 ?>
