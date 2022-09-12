@@ -1,0 +1,7 @@
+<?php
+
+echo "<h2>Exercício</h2>";
+
+echo "<h3>FAÇA UMA VERIFICAÇÃO SE A PESSOA É MAIOR DE IDADE, SE FOR, ELA PODE DIRIGIR, CASO CONTRÁRIO, NÃO PODE DIRIGIR AINDA.</h3>";
+
+?>
